@@ -1,6 +1,6 @@
 ### Well hello there!
 
-This is the test.
+This is a practice.
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
